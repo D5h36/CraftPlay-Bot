@@ -1,0 +1,16 @@
+{
+
+    "token": "Bot-token",
+    "prefix": "~",
+    "serverIp": "play.craftplay.xyz",
+    "serverMemberId" : "ID",
+    "warnRole1": "[CP] Warning 1",
+    "warnRole2": "[CP] Warning 2",
+    "warnRole3": "[CP] Warning 3",
+    "Mutedid" : "ID",
+    "ticketCategory" : "ID",
+    "ticketChannelId": "ID",
+    "stafflogs": "iD",
+    "walson": "im handsome"
+    
+}

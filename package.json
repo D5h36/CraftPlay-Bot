@@ -1,0 +1,24 @@
+{
+  "name": "craftplay-bot",
+  "version": "1.0.0",
+  "description": "craftplay bot by metas",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "metas",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.1",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "markdown-escape": "^1.1.0",
+    "mc-ping-updated": "^0.1.1",
+    "minecraft-server-util": "^3.5.1",
+    "mojang-api": "0.0.2",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
